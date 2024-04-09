@@ -1,4 +1,4 @@
-// const arr = [1,2,3, 'Alex', 'I am', [1,2, 'Hello' ], '24 ', 'My name is', [1,['years old', 'and']]]
+// const arr = [1,2,3, 'Alex', 'I am', [1,2, 'Hello' ], '24', 'My name is', [1,['years old', 'and']]]
 
 // let txt = arr[5][2] + ('! ')+ arr[7] + (' ') + arr[3] + (' ') + arr[8][1][1] + (' ') + arr[4] + (' ') + arr[6] + (' ') + arr[8][1][0] + ('. ')
 
